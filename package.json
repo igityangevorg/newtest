@@ -1,0 +1,32 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igityangevorg/testtask.git"
+  },
+  "author": "Gev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igityangevorg/testtask/issues"
+  },
+  "homepage": "https://github.com/igityangevorg/testtask#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.12",
+    "nodemon": "^1.17.2",
+    "path": "^0.12.7",
+    "port": "^0.8.1"
+  }
+}
